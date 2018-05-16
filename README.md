@@ -1,4 +1,3 @@
 # DeepSpeech2_Mandarin_PyTorch
-
-Reference From: 
-https://github.com/SeanNaren/deepspeech.pytorch.git
+In this project, we build an ASR model for Mandarin phonetic spellings based on the Deep Speech 2 architecture.   
+Our code is partially inferenced from https://github.com/SeanNaren/deepspeech.pytorch.git 
